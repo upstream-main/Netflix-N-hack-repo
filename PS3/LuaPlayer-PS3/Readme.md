@@ -511,15 +511,5 @@ While LuaPlayer runs in user‑space, it exposes low‑level memory access. Home
 
 ---
 
-Final Assessment
-
-LuaPlayer for PS3 v0.50 remains a mature and capable headless Lua runtime for the PlayStation 3. Its comprehensive API – controller input, audio, file system, memory peeking, and network debugging – works reliably. The critical display limitation on firmware 4.92 forces a headless development model, but this is circumventable with USB logging and audio feedback.
-
-The presence of raw hypervisor/kernel memory access demands responsible use, but the core libraries provide everything needed for powerful interactive applications without resorting to low‑level hacks.
-
-Long‑term support benefits from:
-
-1. Strict adherence to Lua 5.2 semantics
-2. Careful resource management
-3. Defensive coding against invalid file paths and memory exhaustion
-4. Regular testing on real CFW consoles
+Use this fir API's
+https://github.com/MexrlDev/repo/blob/main/PS3/LuaPlayer-PS3/Development/Dumped-Lua.txt
