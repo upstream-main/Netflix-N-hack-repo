@@ -1,4 +1,4 @@
--- PS3 elf extractor
+-- PS3 elf extractor - Trash code
 local usb
 for _, root in ipairs{"/dev_usb000","/dev_usb001","/dev_usb002","/dev_usb003"} do
     local f = io.open(root .. "/.t","w")
