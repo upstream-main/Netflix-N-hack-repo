@@ -2,7 +2,7 @@
   <img width="220" src="https://raw.githubusercontent.com/MexrlDev/repo/refs/heads/main/PS3/LuaPlayer-PS3/Icon/IMG_0376.png">
 </p>
 
-<h1 align="center">LuaPlayer for PS3 v0.50 – Runtime Environment & Capability Report</h1>
+<h1 align="center">LuaPlayer for PS3 v0.50</h1>
 
 <p align="center">
   Homebrew application analysis, API surface mapping, script deployment guide, and development reference for Lua scripting on PlayStation 3
